@@ -1,0 +1,9 @@
+python-dotenv
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+llama-index-core
+llama-index-postprocessor-flag-embedding-reranker
+llama-parse
+FlagEmbedding
+llama-agents
